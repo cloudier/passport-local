@@ -1,7 +1,7 @@
 {
-  "name": "passport-local",
+  "name": "passport-local-optional-password",
   "version": "1.0.0",
-  "description": "Local username and password authentication strategy for Passport.",
+  "description": "Local username and password authentication strategy for Passport. Password optional.",
   "keywords": [
     "passport",
     "local",
@@ -9,19 +9,19 @@
     "authn",
     "authentication",
     "username",
-    "password"
+    "password",
+    "optional"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Claudia Tu",
+    "email": "cldtu@yahoo.com.au"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "git://github.com/cloudier/passport-local-optional-password/"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-local/issues"
+    "url": "http://github.com/cloudier/passport-local-optional-password/issues/"
   },
   "license": "MIT",
   "licenses": [
